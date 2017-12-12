@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744338711891",
+    "firebase_url": "https://sharepay-8709e.firebaseio.com",
+    "project_id": "sharepay-8709e",
+    "storage_bucket": "sharepay-8709e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744338711891:android:e511e58cd00f5085",
+        "android_client_info": {
+          "package_name": "hrirng.sharepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744338711891-usp67bsaa5il59c9gt5ak6idp78h17lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hrirng.sharepay",
+            "certificate_hash": "f4071a13e29af0c3444f47fa69d6b76a623f34e4"
+          }
+        },
+        {
+          "client_id": "744338711891-rrmck84m7i6vr74rnku0qetoc4vdpge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD2bSR3pvSV2CLNGu-qvqAEcnOAAhWfNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744338711891-rrmck84m7i6vr74rnku0qetoc4vdpge6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
